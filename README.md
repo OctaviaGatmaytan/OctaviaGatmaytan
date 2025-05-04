@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Tavi</h1>
 <h3 align="center">Compsi Student</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=octaviagatmaytan&label=Profile%20views&color=0e75b6&style=flat" alt="octaviagatmaytan" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=octaviagatmaytan" alt="octaviagatmaytan" /></a> </p>
+
 - 📫 How to reach me **ogatmaytan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
