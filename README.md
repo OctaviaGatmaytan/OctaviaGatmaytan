@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tavi</h1>
-<h3 align="center">Computer Science Student 🔰 </h3>
+<h3 align="center">Computer Science student 🔰 </h3>
 
 - 📫 How to reach me **ogatmaytan@gmail.com**
 
