@@ -11,3 +11,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=OctaviaGatmaytan&radius=16&theme=dracula&area=true&order=5&hide_border=false&hide_title=false&point=0a8671" height="300" alt="activity-graph graph"  />
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OctaviaGatmaytan/OctaviaGatmaytan/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OctaviaGatmaytan/OctaviaGatmaytan/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/OctaviaGatmaytan/OctaviaGatmaytan/output/github-snake.svg" />
+</picture>
