@@ -1,5 +1,5 @@
 # <div align="center"> 💫 About Me:
-<div align="center"> Compsci student at FEU-Institution of Technology 🔰 | Currently exploring AI & Machine Learning  
+<div align="center"> Compsci student at FEU-Institution of Technology 🔰
 
 
 # <div align="center"> 💻 Languages and Tools:
