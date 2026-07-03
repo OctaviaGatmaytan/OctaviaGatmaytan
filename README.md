@@ -1,9 +1,4 @@
-# <div align="center"> 💫 About Me:
-<div align="center"> Compsci student at FEU-Institution of Technology 🔰
 
-
-# <div align="center"> 💻 Languages and Tools:
- ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OctaviaGatmaytan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=panda&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
